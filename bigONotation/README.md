@@ -34,5 +34,5 @@ const addUpTo2 = (n) => {
 **Big O Expressions**
 
 - <img src="https://latex.codecogs.com/gif.latex?linear:&space;(f(n)&space;=&space;n)" title="linear: (f(n) = n)" />
-- <img src="https://latex.codecogs.com/gif.latex?quadratic:&space;(f(n)&space;=&space;n{2}')" title="quadratic: (f(n) = n{2}')" />
+- <img src="https://latex.codecogs.com/gif.latex?quadratic:&space;(f(n)&space;=&space;n^{2})" title="quadratic: (f(n) = n^{2})" />
 - <img src="https://latex.codecogs.com/gif.latex?constant:&space;(f(n)&space;=&space;1)" title="constant: (f(n) = 1)" />
