@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0288815f-ecff-453e-84dc-97691667e653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bigONotation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigONotation/bigO.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigONotation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bigONotation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigONotation/bigO.js" beforeDir="false" afterPath="$PROJECT_DIR$/bigONotation/bigO.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1592049828951" duration="718000" />
       <workItem from="1592329023699" duration="710000" />
       <workItem from="1592739825345" duration="1983000" />
-      <workItem from="1595269068223" duration="1239000" />
+      <workItem from="1595269068223" duration="2022000" />
     </task>
     <servers />
   </component>
